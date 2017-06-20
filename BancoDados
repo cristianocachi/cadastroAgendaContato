@@ -1,0 +1,7 @@
+CREATE TABLE contatos(
+    id int NOT NULL AUTO_INCREMENT,
+    nome varchar(255),
+    telefone varchar(255),
+    endereco varchar(255),
+    PRIMARY KEY (ID)
+);
